@@ -1,0 +1,10 @@
+{
+  "name": "rebirth_nation",
+  "short_name": "rebirth_nation",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Rebirth Nation",
+  "orientation": "portrait-primary"
+}
